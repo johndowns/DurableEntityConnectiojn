@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 
 namespace DurableEntityTest
 {
-    public static class Function1
+    public static class Functions
     {
         public const string ProviderName = "Provider1";
 
